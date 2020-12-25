@@ -21,7 +21,7 @@
 1. heroku : execution environment of the counter_bot
 1. slack
 
-## how to deploy on heroku
+## How to deploy on heroku
 
 You must have your account of the Heroku. 
 And you must have installed the Heroku CLI on your PC.
@@ -52,3 +52,7 @@ And you must have added a bot integration on your slack team.
     ```
     $ git push heroku master
     ```
+
+## Reference
+
+[Bot Integration way on SlackS](https://www.slideshare.net/dcubeio/python-heroku-slack-bot)
