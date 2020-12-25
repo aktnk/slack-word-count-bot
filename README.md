@@ -37,6 +37,12 @@ And you must have installed the Heroku CLI on your PC.
     ```
     $ heroku create (application name)
     ```
+1. Set config vars API_TOKEN to the heroku application settings.
+
+    [Settings] > [Config Vars] 
+
+    Set "API_TOKEN" at KEY and the API Token code which you got from the Slack App Bots Settings at VALUE.
+
 1. Add remote repository to the heroku repository.
     ```
     $ heroku git:remote -a (application name)
@@ -45,8 +51,3 @@ And you must have installed the Heroku CLI on your PC.
     ```
     $ git push heroku master
     ```
-1. Set config vars API_TOKEN to the heroku application settings.
-
-    [Settings] > [Config Vars] 
-
-    Set "API_TOKEN" at KEY and the API Token code which you got from the Slack App Bots Settings at VALUE.
