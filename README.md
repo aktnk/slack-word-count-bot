@@ -25,6 +25,7 @@
 
 You must have your account of the Heroku. 
 And you must have installed the Heroku CLI on your PC.
+And you must have added a bot integration on your slack team.
 1. Clone this repository on your PC.
     ```
     $ git clone https://github.com/aktnk/slack-word-count-bot.git
