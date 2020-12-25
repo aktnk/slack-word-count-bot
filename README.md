@@ -55,4 +55,4 @@ And you must have added a bot integration on your slack team.
 
 ## Reference
 
-[Bot Integration way on SlackS](https://www.slideshare.net/dcubeio/python-heroku-slack-bot)
+[Bot Integration way on Slack](https://www.slideshare.net/dcubeio/python-heroku-slack-bot)
